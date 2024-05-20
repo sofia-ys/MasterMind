@@ -1,5 +1,6 @@
-Download the file then in terminal, type cd and the location of the file on your computer
+1. Download the file python file "mastermind.py" 
 
-e.g. C:\Users\username\Downloads> .\mastermind.py
+2. In terminal, type cd and the location of the file on your computer
+    e.g. C:\Users\username\Downloads> .\mastermind.py
 
-Start entering your guesses and play!
+3. Start entering your guesses and play!
