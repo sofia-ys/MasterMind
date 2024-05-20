@@ -1,11 +1,15 @@
-1. Download the file python file "mastermind.py" 
+# Setup
+1. Download the file python file `mastermind.py` 
 
-2. In terminal, type cd and the location of the file on your computer
-    e.g. C:\Users\username\Downloads> .\mastermind.py
+2. In terminal, navigate to the folder and run mastermind with the following
+```bash
+cd MasterMind
+python mastermind.py
+```
 
 3. Start entering your guesses and play!
 
-Tips:
+# Tips
 - good means the number and position of the number are correct
   e.g. the code is 1234 and you typed 1256, there will be two good numbers (1, 2)
 
