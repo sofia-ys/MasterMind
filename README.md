@@ -1,5 +1,5 @@
 # Setup
-1. Download file python file `mastermind.py` 
+1. Download the repository `MasterMind` 
 
 2. In terminal, navigate to the folder and run mastermind with the following
 ```bash
